@@ -175,8 +175,9 @@ carro.adicionarPessoa(1) // 'O carro já esta lotado!'
 carro.adicionarPessoa(-4) //
 
 // Adicione 10 pessoas no carro.
-
+carro.adicionarPessoa(10) // Só cabem mais 4 pessoa!
 
 // Quantas pessoas temos no carro?
+carro.quantidadePessoas // 1
 
 ```
